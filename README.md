@@ -1,4 +1,5 @@
 ***LINK P/ CIRCUITO NO TINKERCAD*** https://www.tinkercad.com/things/eK8gw3hQ1le
+***LINK P/ o Google Drive com os materiais de apoio*** https://drive.google.com/drive/folders/1KIaSc27tZGANUtirYAW8Gx2woFV482qy?usp=share_link
 
 **Oficina de Robótica | *"Recriando o Genius, o clássico jogo dos anos 80"***
 
